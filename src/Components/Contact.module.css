@@ -1,0 +1,26 @@
+.contactDiv {
+    height: 380px;
+    width: 90%;
+    margin-left: 5%;
+    background-color: rgb(246,246,246);
+}
+.contactDiv > div {
+    display: flex;
+    justify-content: space-evenly;
+}
+.contactDiv > div > div{
+    width: 30%;
+    height: 250px;
+    margin-top: 25px;
+    background-color: white;
+}
+.trackDiv {
+    display: flex;
+}
+.trackDiv > div {
+    margin-left: 20px;
+    margin-top: 80px;
+}
+.trackDiv > img {
+    margin-top: 50px;
+}

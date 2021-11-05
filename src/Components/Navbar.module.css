@@ -1,0 +1,19 @@
+.navbar {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    justify-content: space-evenly;
+    background-color: rgb(65, 65, 212);
+    place-items: center;
+}
+.link {
+    color: white;
+    text-decoration: none;
+}
+.cartCount {
+    color: white;
+    top: 5px;
+    margin-left: -109px;
+}

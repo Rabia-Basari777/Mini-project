@@ -1,0 +1,160 @@
+[
+    {
+        "id": 1,
+        "img": "https://m.media-amazon.com/images/I/71DBklVte9L._UL1200_.jpg",
+        "category": "Men's",
+        "price": 1999,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Men's Shirt Combo",
+        "brand": "Dolcee & Gobana",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 2,
+        "img": "https://m.media-amazon.com/images/I/61wsqStOKZL._UL1500_.jpg",
+        "category": "Unisex",
+        "price": 899,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Rayban Frame",
+        "brand": "Rayban",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 3,
+        "img": "https://ae01.alicdn.com/kf/HTB1xeKqXZfrK1RjSszcq6xGGFXaU/women-clothing-chiffon-blouse-shirt-korean-fashion-clothing-plus-size-women-tops-fashion-woman-blouses-new.jpg_Q90.jpg_.webp",
+        "category": "Women's",
+        "price": 999,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Official Women Wear",
+        "brand": "Dolcee & Gobana",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 4,
+        "img": "https://5.imimg.com/data5/HL/RH/GO/SELLER-11193145/nb-6-700-3-500x500.jpg",
+        "category": "Men's",
+        "price": 999,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Men's T-shirt",
+        "brand": "Dolcee & Gobana",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 5,
+        "img": "https://medias.utsavfashion.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/e/m/embellished-georgette-gown-in-beige-v1-tbz41.jpg",
+        "category": "Women's",
+        "price": 5429,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Party Wear Gown",
+        "brand": "Libas",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 6,
+        "img": "https://ae01.alicdn.com/kf/HTB13BxlvhWYBuNjy1zkq6xGGpXaJ/jiayijiaduo-Classic-Bridal-Jewellery-Sets-for-Women-s-Dresses-Accessories-Cubic-Necklace-Earrings-Set-Gold-Color.jpg_Q90.jpg_.webp",
+        "category": "Jewellery",
+        "price": 35999,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Gold Neck piece with Ear rings",
+        "brand": "Tanishq",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 7,
+        "img": "https://5.imimg.com/data5/BW/CO/ZO/SELLER-82946357/ladies-designer-finger-rings-500x500.jpg",
+        "category": "Jewellery",
+        "price": 28569,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Gold Bracelet Set",
+        "brand": "Joyalukas",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 8,
+        "img": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "category": "Men's",
+        "price": 999,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Utility Bifold",
+        "brand": "Dolcee & Gobana",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 9,
+        "img": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "category": "Men's",
+        "price": 999,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Utility Bifold",
+        "brand": "Dolcee & Gobana",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 10,
+        "img": "https://5.imimg.com/data5/YA/HE/QF/SELLER-15466606/finger-rings-500x500.jpg",
+        "category": "Jewellery",
+        "price": 16299,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Diamond Studded Ring",
+        "brand": "Khazana",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 11,
+        "img": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "category": "Unisex",
+        "price": 999,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Utility Bifold",
+        "brand": "Dolcee & Gobana",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 12,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYioijdYPWfuMjeW9o64UhWkRX2scSe1VRwA&usqp=CAU",
+        "category": "Women's",
+        "price": 999,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "White Stripped Suit For Women",
+        "brand": "Dolcee & Gobana",
+        "reviews": 165,
+        "isAvailabe": true
+    },
+    {
+        "id": 13,
+        "img": "https://i.pinimg.com/236x/f8/a9/30/f8a9307fd3b06eefb02f2f62cbc16503.jpg",
+        "category": "Men's",
+        "price": 999,
+        "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "ratings": 4.2,
+        "title": "Utility Bifold",
+        "brand": "Dolcee & Gobana",
+        "reviews": 165,
+        "isAvailabe": true
+    }
+]
+
+
